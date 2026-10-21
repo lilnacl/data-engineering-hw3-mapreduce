@@ -1,0 +1,38 @@
+[
+  {
+    "key": "derived/it_vacancies_2024_trial1.parquet",
+    "rows": 229388,
+    "bytes": 169048587,
+    "copy_seconds": 5.233909540926106,
+    "compression": "ZSTD",
+    "row_group_size": 122880,
+    "wall_seconds": 5.709018790978007,
+    "peak_client_rss_mib": 1378.890625,
+    "samples": 470,
+    "trial": 1
+  },
+  {
+    "key": "derived/it_vacancies_2024_trial2.parquet",
+    "rows": 229388,
+    "bytes": 169048587,
+    "copy_seconds": 5.043049874948338,
+    "compression": "ZSTD",
+    "row_group_size": 122880,
+    "wall_seconds": 5.506921416032128,
+    "peak_client_rss_mib": 1501.046875,
+    "samples": 451,
+    "trial": 2
+  },
+  {
+    "key": "derived/it_vacancies_2024_trial3.parquet",
+    "rows": 229388,
+    "bytes": 169048587,
+    "copy_seconds": 4.5861694579944015,
+    "compression": "ZSTD",
+    "row_group_size": 122880,
+    "wall_seconds": 5.000810374971479,
+    "peak_client_rss_mib": 1617.71875,
+    "samples": 406,
+    "trial": 3
+  }
+]

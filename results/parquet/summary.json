@@ -1,0 +1,18 @@
+{
+  "csv_bytes": 847619384,
+  "parquet_bytes": 169048587,
+  "parquet_key": "derived/it_vacancies_2024_trial3.parquet",
+  "csv_wall_median": 1.0830647089751437,
+  "parquet_wall_median": 0.5225578749086708,
+  "csv_rss_median_mib": 301.859375,
+  "parquet_rss_median_mib": 263.03125,
+  "conversion_wall_median": 5.506921416032128,
+  "speedup": 2.072621542952414,
+  "size_ratio": 5.014057786830244,
+  "rss_reduction_pct": 12.86298462653347,
+  "break_even_queries": 10,
+  "trials_per_format": 3,
+  "logical_data_equal": true,
+  "all_frequencies_equal": true,
+  "notes": "Fresh process per run. Wall time includes connection, query and JSON. RSS sampled every 10 ms; RustFS excluded. OS cache not flushed. No Parquet file prefiltered to Go; full 23-column dataset preserved."
+}

@@ -1,0 +1,8 @@
+{
+  "csv_rows": 229388,
+  "parquet_rows": 229388,
+  "columns": 23,
+  "schema_equal": true,
+  "csv_minus_parquet": 0,
+  "parquet_minus_csv": 0
+}

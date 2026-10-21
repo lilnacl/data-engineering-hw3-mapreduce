@@ -1,0 +1,46 @@
+{"key": "derived/it_vacancies_2024_trial1.parquet", "rows": 229388, "bytes": 169048587, "copy_seconds": 5.233909540926106, "compression": "ZSTD", "row_group_size": 122880, "wall_seconds": 5.709018790978007, "peak_client_rss_mib": 1378.890625, "samples": 470, "trial": 1}
+{"key": "derived/it_vacancies_2024_trial2.parquet", "rows": 229388, "bytes": 169048587, "copy_seconds": 5.043049874948338, "compression": "ZSTD", "row_group_size": 122880, "wall_seconds": 5.506921416032128, "peak_client_rss_mib": 1501.046875, "samples": 451, "trial": 2}
+{"key": "derived/it_vacancies_2024_trial3.parquet", "rows": 229388, "bytes": 169048587, "copy_seconds": 4.5861694579944015, "compression": "ZSTD", "row_group_size": 122880, "wall_seconds": 5.000810374971479, "peak_client_rss_mib": 1617.71875, "samples": 406, "trial": 3}
+{"csv_rows": 229388, "parquet_rows": 229388, "columns": 23, "schema_equal": true, "csv_minus_parquet": 0, "parquet_minus_csv": 0}
+{"k": 1, "unique_keys": 969, "total_occurrences": 15519, "differences": 0}
+{"k": 2, "unique_keys": 13552, "total_occurrences": 61694, "differences": 0}
+{"k": 3, "unique_keys": 89260, "total_occurrences": 216333, "differences": 0}
+{"wall_seconds": 1.288034458993934, "peak_client_rss_mib": 303.796875, "samples": 98, "format": "csv", "selected_rows": 3123, "stage_seconds": 1.0279941669432446, "trial": 1}
+{"k": 1, "unique_keys": 969, "total_occurrences": 15519, "differences": 0}
+{"k": 2, "unique_keys": 13552, "total_occurrences": 61694, "differences": 0}
+{"k": 3, "unique_keys": 89260, "total_occurrences": 216333, "differences": 0}
+{"wall_seconds": 0.535495667019859, "peak_client_rss_mib": 263.03125, "samples": 40, "format": "parquet", "selected_rows": 3123, "stage_seconds": 0.3598902500234544, "trial": 1}
+{"k": 1, "unique_keys": 969, "total_occurrences": 15519, "differences": 0}
+{"k": 2, "unique_keys": 13552, "total_occurrences": 61694, "differences": 0}
+{"k": 3, "unique_keys": 89260, "total_occurrences": 216333, "differences": 0}
+{"wall_seconds": 0.5225578749086708, "peak_client_rss_mib": 264.125, "samples": 40, "format": "parquet", "selected_rows": 3123, "stage_seconds": 0.3480833329958841, "trial": 2}
+{"k": 1, "unique_keys": 969, "total_occurrences": 15519, "differences": 0}
+{"k": 2, "unique_keys": 13552, "total_occurrences": 61694, "differences": 0}
+{"k": 3, "unique_keys": 89260, "total_occurrences": 216333, "differences": 0}
+{"wall_seconds": 1.0830647089751437, "peak_client_rss_mib": 295.0, "samples": 85, "format": "csv", "selected_rows": 3123, "stage_seconds": 0.9165486668935046, "trial": 2}
+{"k": 1, "unique_keys": 969, "total_occurrences": 15519, "differences": 0}
+{"k": 2, "unique_keys": 13552, "total_occurrences": 61694, "differences": 0}
+{"k": 3, "unique_keys": 89260, "total_occurrences": 216333, "differences": 0}
+{"wall_seconds": 1.0616439579753205, "peak_client_rss_mib": 301.859375, "samples": 83, "format": "csv", "selected_rows": 3123, "stage_seconds": 0.9118072090204805, "trial": 3}
+{"k": 1, "unique_keys": 969, "total_occurrences": 15519, "differences": 0}
+{"k": 2, "unique_keys": 13552, "total_occurrences": 61694, "differences": 0}
+{"k": 3, "unique_keys": 89260, "total_occurrences": 216333, "differences": 0}
+{"wall_seconds": 0.4937788340030238, "peak_client_rss_mib": 259.265625, "samples": 38, "format": "parquet", "selected_rows": 3123, "stage_seconds": 0.33842270902823657, "trial": 3}
+{
+  "csv_bytes": 847619384,
+  "parquet_bytes": 169048587,
+  "parquet_key": "derived/it_vacancies_2024_trial3.parquet",
+  "csv_wall_median": 1.0830647089751437,
+  "parquet_wall_median": 0.5225578749086708,
+  "csv_rss_median_mib": 301.859375,
+  "parquet_rss_median_mib": 263.03125,
+  "conversion_wall_median": 5.506921416032128,
+  "speedup": 2.072621542952414,
+  "size_ratio": 5.014057786830244,
+  "rss_reduction_pct": 12.86298462653347,
+  "break_even_queries": 10,
+  "trials_per_format": 3,
+  "logical_data_equal": true,
+  "all_frequencies_equal": true,
+  "notes": "Fresh process per run. Wall time includes connection, query and JSON. RSS sampled every 10 ms; RustFS excluded. OS cache not flushed. No Parquet file prefiltered to Go; full 23-column dataset preserved."
+}
