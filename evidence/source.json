@@ -1,0 +1,8 @@
+{
+  "bucket": "hh-lake",
+  "key": "raw/it_vacancies_2024.csv",
+  "bytes": 847619384,
+  "sha256_s3_get": "303db922b541e4440906f5a7e8be32fb55e8808f950ffddb8c272f1548212a65",
+  "etag": "\"45041a115287e29b41fc8f82818ec5a6\"",
+  "source_url": "https://drive.google.com/file/d/1rLEu3N2isIBhAkK1EcSJ2482ouOPAots/view"
+}

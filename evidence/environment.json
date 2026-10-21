@@ -1,0 +1,10 @@
+{
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "processor": "arm64",
+  "python": "3.14.4",
+  "logical_cpus": 12,
+  "physical_memory_gib": 24.0,
+  "sampling_interval_seconds": 0.01,
+  "workers_and_duckdb_threads": 4,
+  "notes": "Fresh process per run; sampled sum of RSS for coordinator plus registered mapper workers (DuckDB: one multithreaded process). RustFS and multiprocessing resource tracker excluded. Shared pages counted per process. OS file cache not flushed. Wall times include imports and result serialization."
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "k": 1,
+    "unique_keys": 969,
+    "total_occurrences": 15519,
+    "differences": 0
+  },
+  {
+    "k": 2,
+    "unique_keys": 13552,
+    "total_occurrences": 61694,
+    "differences": 0
+  },
+  {
+    "k": 3,
+    "unique_keys": 89260,
+    "total_occurrences": 216333,
+    "differences": 0
+  }
+]

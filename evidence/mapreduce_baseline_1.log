@@ -1,0 +1,23 @@
+{
+  "rows": 229388,
+  "selected_rows": 3123,
+  "chunks": 115,
+  "chunk_rows": 2000,
+  "workers": 4,
+  "combiner": false,
+  "retries": 0,
+  "s3_bytes": 847619384,
+  "prefilter": false,
+  "dispatched_rows": 229388,
+  "emitted": [
+    15519,
+    61694,
+    216333
+  ],
+  "transferred_keys": [
+    15519,
+    61694,
+    216333
+  ],
+  "seconds": 2.941802541958168
+}

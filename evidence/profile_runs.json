@@ -1,0 +1,98 @@
+[
+  {
+    "engine": "mapreduce_baseline",
+    "trial": 1,
+    "wall_seconds": 3.164360792026855,
+    "peak_client_rss_mib": 287.921875,
+    "samples": 257,
+    "compute_seconds": 2.941802541958168
+  },
+  {
+    "engine": "mapreduce_combiner",
+    "trial": 1,
+    "wall_seconds": 3.156660750042647,
+    "peak_client_rss_mib": 288.109375,
+    "samples": 257,
+    "compute_seconds": 2.937136874999851
+  },
+  {
+    "engine": "duckdb",
+    "trial": 1,
+    "wall_seconds": 1.4706021670717746,
+    "peak_client_rss_mib": 293.96875,
+    "samples": 120,
+    "compute_seconds": 1.2699097919976339
+  },
+  {
+    "engine": "mapreduce_prefilter",
+    "trial": 1,
+    "wall_seconds": 3.117372249951586,
+    "peak_client_rss_mib": 157.40625,
+    "samples": 253,
+    "compute_seconds": 2.892380250035785
+  },
+  {
+    "engine": "mapreduce_baseline",
+    "trial": 2,
+    "wall_seconds": 3.130047124926932,
+    "peak_client_rss_mib": 272.5,
+    "samples": 254,
+    "compute_seconds": 2.898799500078894
+  },
+  {
+    "engine": "mapreduce_combiner",
+    "trial": 2,
+    "wall_seconds": 3.140213166945614,
+    "peak_client_rss_mib": 273.5,
+    "samples": 254,
+    "compute_seconds": 2.9231937089934945
+  },
+  {
+    "engine": "duckdb",
+    "trial": 2,
+    "wall_seconds": 1.1924995419103652,
+    "peak_client_rss_mib": 284.578125,
+    "samples": 96,
+    "compute_seconds": 0.9926551249809563
+  },
+  {
+    "engine": "mapreduce_prefilter",
+    "trial": 2,
+    "wall_seconds": 3.1878515830030665,
+    "peak_client_rss_mib": 160.65625,
+    "samples": 258,
+    "compute_seconds": 2.9429159170249477
+  },
+  {
+    "engine": "mapreduce_baseline",
+    "trial": 3,
+    "wall_seconds": 3.1805525409290567,
+    "peak_client_rss_mib": 266.25,
+    "samples": 257,
+    "compute_seconds": 2.952537624980323
+  },
+  {
+    "engine": "mapreduce_combiner",
+    "trial": 3,
+    "wall_seconds": 3.175188708002679,
+    "peak_client_rss_mib": 271.5,
+    "samples": 258,
+    "compute_seconds": 2.950623165932484
+  },
+  {
+    "engine": "duckdb",
+    "trial": 3,
+    "wall_seconds": 1.2221774579957128,
+    "peak_client_rss_mib": 280.5,
+    "samples": 100,
+    "compute_seconds": 1.0172130420105532
+  },
+  {
+    "engine": "mapreduce_prefilter",
+    "trial": 3,
+    "wall_seconds": 3.217647959012538,
+    "peak_client_rss_mib": 158.25,
+    "samples": 262,
+    "compute_seconds": 2.971699708024971
+  }
+]

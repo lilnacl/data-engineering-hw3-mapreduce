@@ -1,0 +1,16 @@
+{"key": "results/analysis/region_skills.json", "bytes": 9762, "sha256": "c8d4e092a9889fe27a49ab1abcb9aead3672b349016b38a8c11482775dd28a59", "get_verified": true}
+{"key": "results/analysis/regions.json", "bytes": 548, "sha256": "05f252e880756c75863575c36377ee37357235c5d5cc7dde94485b9b3ad89ec3", "get_verified": true}
+{"key": "results/analysis/salary_effects.json", "bytes": 289962, "sha256": "27659a508959509979d10fba9538249e387bf74148f5bd3512f23b2eff299c1a", "get_verified": true}
+{"key": "results/analysis/salary_rankings.json", "bytes": 7514, "sha256": "653a19be68fe22ecb054d17f4b04a803b2825887f055ccf7a7251f055524e281", "get_verified": true}
+{"key": "results/analysis/summary.json", "bytes": 2475, "sha256": "1792a78e3dcef03350db1c058c154fdacc56a4cae2c6d6ffd0d9b9f427ec774c", "get_verified": true}
+{"key": "results/duckdb/counts_1.json", "bytes": 68889, "sha256": "07a7ccd22bd364da100eae7b83d61953ddd8cabb6f2f33309bc9540ead761167", "get_verified": true}
+{"key": "results/duckdb/counts_2.json", "bytes": 1195631, "sha256": "a6b3d39d2e8b8bb03502e98a4f245daea2425981e91f622e35511e8a78aa33a1", "get_verified": true}
+{"key": "results/duckdb/counts_3.json", "bytes": 9431312, "sha256": "c98541eb42440b2bc1f649badf2c39f9531ad51a2c02accd72b3d23fcb90dd78", "get_verified": true}
+{"key": "results/duckdb/stats.json", "bytes": 167, "sha256": "0d834894657cd21543f08a4eec021075a85f40fdd1d360ffd09885c4bc0a3579", "get_verified": true}
+{"key": "results/mapreduce/counts_1.json", "bytes": 68889, "sha256": "07a7ccd22bd364da100eae7b83d61953ddd8cabb6f2f33309bc9540ead761167", "get_verified": true}
+{"key": "results/mapreduce/counts_2.json", "bytes": 1195631, "sha256": "a6b3d39d2e8b8bb03502e98a4f245daea2425981e91f622e35511e8a78aa33a1", "get_verified": true}
+{"key": "results/mapreduce/counts_3.json", "bytes": 9431312, "sha256": "c98541eb42440b2bc1f649badf2c39f9531ad51a2c02accd72b3d23fcb90dd78", "get_verified": true}
+{"key": "results/mapreduce/stats.json", "bytes": 309, "sha256": "c07437417e0c12edd7b0a37dc8d7bcba6ae1562d7a5f19cc8c297111a1f59264", "get_verified": true}
+{"key": "results/analysis/region_skills.csv", "bytes": 3294, "sha256": "01fb4222b2ad810e82d34472a8d8d455d2aeff8c80ba846303e6ea2e12c908b8", "get_verified": true}
+{"key": "results/analysis/regions.csv", "bytes": 254, "sha256": "3f24ce3205fd87c69bb9b0dd22a7186cb56af0e25902e635462f700ec3201dcb", "get_verified": true}
+{"key": "results/analysis/salary_effects.csv", "bytes": 77152, "sha256": "f5b01e37661d42187cc26e10107343075076b8a71ae17bf564a780fb817a14ca", "get_verified": true}
