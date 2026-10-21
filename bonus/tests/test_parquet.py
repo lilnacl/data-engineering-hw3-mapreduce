@@ -3,7 +3,7 @@ import csv
 import duckdb
 
 from src.common import ROOT
-from src.parquet_experiment import variant_sql
+from bonus.parquet_experiment import variant_sql
 
 
 def test_parquet_keeps_rows_and_gives_same_frequencies(tmp_path):

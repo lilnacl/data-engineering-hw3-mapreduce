@@ -6,15 +6,15 @@ import sys
 import time
 from pathlib import Path
 
-from .benchmark import measure
-from .common import BUCKET, KEY, ROOT, WORK, dump, s3_client
-from .duckdb_job import connect
-from .verify import verify
+from src.benchmark import measure
+from src.common import BUCKET, KEY, ROOT, WORK, dump, s3_client
+from src.duckdb_job import connect
+from src.verify import verify
 
 CSV_URI = f's3://{BUCKET}/{KEY}'
 CSV_READER = f"read_csv('{CSV_URI}',\n                  header=true, delim=',', all_varchar=true)"
-EVIDENCE = ROOT / 'evidence/parquet'
-RESULTS = ROOT / 'results/parquet'
+EVIDENCE = ROOT / 'bonus/evidence'
+RESULTS = ROOT / 'bonus/results'
 
 
 def reader(kind, path=None):
@@ -98,7 +98,7 @@ def experiment(trials):
     for trial in range(1, trials + 1):
         key = f'derived/it_vacancies_2024_trial{trial}.parquet'
         output = destination / f'conversion_{trial}.json'
-        command = [sys.executable, '-m', 'src.parquet_experiment', 'convert', '--key', key, '--output', str(output)]
+        command = [sys.executable, '-m', 'bonus.parquet_experiment', 'convert', '--key', key, '--output', str(output)]
         measured = measure(command, EVIDENCE / f'conversion_{trial}.log')
         record = json.loads(output.read_text()) | measured | {'trial': trial}
         conversions.append(record)
@@ -110,7 +110,7 @@ def experiment(trials):
     for trial in range(1, trials + 1):
         for kind in (('csv', 'parquet') if trial % 2 else ('parquet', 'csv')):
             output = destination / f'{kind}_{trial}'
-            command = [sys.executable, '-m', 'src.parquet_experiment', 'query', '--format', kind,
+            command = [sys.executable, '-m', 'bonus.parquet_experiment', 'query', '--format', kind,
                        '--key', key, '--output', str(output)]
             measured = measure(command, EVIDENCE / f'{kind}_{trial}.log')
             stats = json.loads((output / 'stats.json').read_text())
