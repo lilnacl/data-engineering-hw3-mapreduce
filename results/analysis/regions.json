@@ -1,0 +1,26 @@
+[
+  {
+    "area": "Москва",
+    "vacancies": 1861,
+    "salary_n": 323,
+    "median_salary": 270000.0,
+    "with_skills": 1436,
+    "mean_skills": 4.646426652337453
+  },
+  {
+    "area": "Санкт-Петербург",
+    "vacancies": 453,
+    "salary_n": 86,
+    "median_salary": 250000.0,
+    "with_skills": 371,
+    "mean_skills": 5.0176600441501105
+  },
+  {
+    "area": "Екатеринбург",
+    "vacancies": 102,
+    "salary_n": 24,
+    "median_salary": 195000.0,
+    "with_skills": 76,
+    "mean_skills": 4.362745098039215
+  }
+]

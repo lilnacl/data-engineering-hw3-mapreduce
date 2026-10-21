@@ -1,0 +1,11 @@
+{
+  "selected_rows": 3123,
+  "distinct_ids": 3123,
+  "seconds": 1.3894908329239115,
+  "duckdb_version": "1.4.3",
+  "emitted": [
+    15519,
+    61694,
+    216333
+  ]
+}

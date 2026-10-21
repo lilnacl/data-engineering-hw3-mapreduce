@@ -1,0 +1,390 @@
+{
+  "positive_2": [
+    {
+      "k": 2,
+      "stack": [
+        "api",
+        "mysql"
+      ],
+      "vacancies": 32,
+      "salary_n": 11,
+      "median_salary": 350000.0,
+      "base": [
+        "mysql"
+      ],
+      "base_vacancies": 302,
+      "base_salary_n": 117,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    },
+    {
+      "k": 2,
+      "stack": [
+        "backend",
+        "php"
+      ],
+      "vacancies": 19,
+      "salary_n": 11,
+      "median_salary": 350000.0,
+      "base": [
+        "php"
+      ],
+      "base_vacancies": 297,
+      "base_salary_n": 98,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    },
+    {
+      "k": 2,
+      "stack": [
+        "github",
+        "ооп"
+      ],
+      "vacancies": 24,
+      "salary_n": 24,
+      "median_salary": 362500.0,
+      "base": [
+        "ооп"
+      ],
+      "base_vacancies": 152,
+      "base_salary_n": 83,
+      "base_median": 215000.0,
+      "delta_rub": 147500.0,
+      "delta_pct": 68.6046511627907
+    },
+    {
+      "k": 2,
+      "stack": [
+        "gitlab",
+        "ооп"
+      ],
+      "vacancies": 24,
+      "salary_n": 24,
+      "median_salary": 362500.0,
+      "base": [
+        "ооп"
+      ],
+      "base_vacancies": 152,
+      "base_salary_n": 83,
+      "base_median": 215000.0,
+      "delta_rub": 147500.0,
+      "delta_pct": 68.6046511627907
+    },
+    {
+      "k": 2,
+      "stack": [
+        "git",
+        "github"
+      ],
+      "vacancies": 29,
+      "salary_n": 25,
+      "median_salary": 350000.0,
+      "base": [
+        "git"
+      ],
+      "base_vacancies": 560,
+      "base_salary_n": 200,
+      "base_median": 215000.0,
+      "delta_rub": 135000.0,
+      "delta_pct": 62.7906976744186
+    }
+  ],
+  "negative_2": [
+    {
+      "k": 2,
+      "stack": [
+        "grpc",
+        "mongodb"
+      ],
+      "vacancies": 34,
+      "salary_n": 10,
+      "median_salary": 110000.0,
+      "base": [
+        "grpc"
+      ],
+      "base_vacancies": 246,
+      "base_salary_n": 77,
+      "base_median": 239750.0,
+      "delta_rub": -129750.0,
+      "delta_pct": -54.11887382690303
+    },
+    {
+      "k": 2,
+      "stack": [
+        "rest",
+        "sql"
+      ],
+      "vacancies": 53,
+      "salary_n": 15,
+      "median_salary": 115000.0,
+      "base": [
+        "sql"
+      ],
+      "base_vacancies": 563,
+      "base_salary_n": 149,
+      "base_median": 239750.0,
+      "delta_rub": -124750.0,
+      "delta_pct": -52.03336809176224
+    },
+    {
+      "k": 2,
+      "stack": [
+        "javascript",
+        "postgresql"
+      ],
+      "vacancies": 43,
+      "salary_n": 22,
+      "median_salary": 137500.0,
+      "base": [
+        "postgresql"
+      ],
+      "base_vacancies": 1117,
+      "base_salary_n": 295,
+      "base_median": 250000.0,
+      "delta_rub": -112500.0,
+      "delta_pct": -44.99999999999999
+    },
+    {
+      "k": 2,
+      "stack": [
+        "mysql",
+        "node.js"
+      ],
+      "vacancies": 16,
+      "salary_n": 10,
+      "median_salary": 115000.0,
+      "base": [
+        "mysql"
+      ],
+      "base_vacancies": 302,
+      "base_salary_n": 117,
+      "base_median": 200000.0,
+      "delta_rub": -85000.0,
+      "delta_pct": -42.50000000000001
+    },
+    {
+      "k": 2,
+      "stack": [
+        "kubernetes",
+        "python"
+      ],
+      "vacancies": 62,
+      "salary_n": 12,
+      "median_salary": 160000.0,
+      "base": [
+        "kubernetes"
+      ],
+      "base_vacancies": 422,
+      "base_salary_n": 76,
+      "base_median": 272500.0,
+      "delta_rub": -112500.0,
+      "delta_pct": -41.28440366972477
+    }
+  ],
+  "positive_3": [
+    {
+      "k": 3,
+      "stack": [
+        "api",
+        "backend",
+        "docker"
+      ],
+      "vacancies": 24,
+      "salary_n": 10,
+      "median_salary": 350000.0,
+      "base": [
+        "backend",
+        "docker"
+      ],
+      "base_vacancies": 85,
+      "base_salary_n": 30,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    },
+    {
+      "k": 3,
+      "stack": [
+        "api",
+        "go",
+        "mysql"
+      ],
+      "vacancies": 32,
+      "salary_n": 11,
+      "median_salary": 350000.0,
+      "base": [
+        "go",
+        "mysql"
+      ],
+      "base_vacancies": 289,
+      "base_salary_n": 107,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    },
+    {
+      "k": 3,
+      "stack": [
+        "backend",
+        "docker",
+        "php"
+      ],
+      "vacancies": 16,
+      "salary_n": 10,
+      "median_salary": 350000.0,
+      "base": [
+        "docker",
+        "php"
+      ],
+      "base_vacancies": 104,
+      "base_salary_n": 33,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    },
+    {
+      "k": 3,
+      "stack": [
+        "backend",
+        "go",
+        "php"
+      ],
+      "vacancies": 19,
+      "salary_n": 11,
+      "median_salary": 350000.0,
+      "base": [
+        "go",
+        "php"
+      ],
+      "base_vacancies": 273,
+      "base_salary_n": 89,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    },
+    {
+      "k": 3,
+      "stack": [
+        "backend",
+        "mysql",
+        "php"
+      ],
+      "vacancies": 11,
+      "salary_n": 10,
+      "median_salary": 350000.0,
+      "base": [
+        "mysql",
+        "php"
+      ],
+      "base_vacancies": 126,
+      "base_salary_n": 58,
+      "base_median": 200000.0,
+      "delta_rub": 150000.0,
+      "delta_pct": 75.0
+    }
+  ],
+  "negative_3": [
+    {
+      "k": 3,
+      "stack": [
+        "git",
+        "javascript",
+        "postgresql"
+      ],
+      "vacancies": 27,
+      "salary_n": 12,
+      "median_salary": 95000.0,
+      "base": [
+        "git",
+        "postgresql"
+      ],
+      "base_vacancies": 311,
+      "base_salary_n": 130,
+      "base_median": 225000.0,
+      "delta_rub": -130000.0,
+      "delta_pct": -57.77777777777777
+    },
+    {
+      "k": 3,
+      "stack": [
+        "go",
+        "grpc",
+        "mongodb"
+      ],
+      "vacancies": 34,
+      "salary_n": 10,
+      "median_salary": 110000.0,
+      "base": [
+        "go",
+        "grpc"
+      ],
+      "base_vacancies": 243,
+      "base_salary_n": 76,
+      "base_median": 239750.0,
+      "delta_rub": -129750.0,
+      "delta_pct": -54.11887382690303
+    },
+    {
+      "k": 3,
+      "stack": [
+        "go",
+        "rest",
+        "sql"
+      ],
+      "vacancies": 49,
+      "salary_n": 11,
+      "median_salary": 120000.0,
+      "base": [
+        "go",
+        "sql"
+      ],
+      "base_vacancies": 545,
+      "base_salary_n": 138,
+      "base_median": 240000.0,
+      "delta_rub": -120000.0,
+      "delta_pct": -50.0
+    },
+    {
+      "k": 3,
+      "stack": [
+        "go",
+        "mysql",
+        "node.js"
+      ],
+      "vacancies": 15,
+      "salary_n": 10,
+      "median_salary": 115000.0,
+      "base": [
+        "go",
+        "mysql"
+      ],
+      "base_vacancies": 289,
+      "base_salary_n": 107,
+      "base_median": 200000.0,
+      "delta_rub": -85000.0,
+      "delta_pct": -42.50000000000001
+    },
+    {
+      "k": 3,
+      "stack": [
+        "mysql",
+        "node.js",
+        "rabbitmq"
+      ],
+      "vacancies": 11,
+      "salary_n": 10,
+      "median_salary": 115000.0,
+      "base": [
+        "mysql",
+        "rabbitmq"
+      ],
+      "base_vacancies": 84,
+      "base_salary_n": 31,
+      "base_median": 200000.0,
+      "delta_rub": -85000.0,
+      "delta_pct": -42.50000000000001
+    }
+  ]
+}

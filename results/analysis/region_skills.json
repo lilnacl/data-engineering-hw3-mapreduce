@@ -1,0 +1,542 @@
+[
+  {
+    "area": "Москва",
+    "k": 1,
+    "stack": [
+      "go"
+    ],
+    "vacancies": 1368,
+    "share_pct": 73.50886620096722,
+    "salary_n": 261,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Москва",
+    "k": 1,
+    "stack": [
+      "postgresql"
+    ],
+    "vacancies": 649,
+    "share_pct": 34.87372380440623,
+    "salary_n": 141,
+    "median_salary": 275000.0
+  },
+  {
+    "area": "Москва",
+    "k": 1,
+    "stack": [
+      "docker"
+    ],
+    "vacancies": 429,
+    "share_pct": 23.052122514777,
+    "salary_n": 105,
+    "median_salary": 270000.0
+  },
+  {
+    "area": "Москва",
+    "k": 1,
+    "stack": [
+      "git"
+    ],
+    "vacancies": 301,
+    "share_pct": 16.17409994626545,
+    "salary_n": 91,
+    "median_salary": 225000.0
+  },
+  {
+    "area": "Москва",
+    "k": 1,
+    "stack": [
+      "sql"
+    ],
+    "vacancies": 294,
+    "share_pct": 15.797958087049974,
+    "salary_n": 57,
+    "median_salary": 240000.0
+  },
+  {
+    "area": "Москва",
+    "k": 2,
+    "stack": [
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 623,
+    "share_pct": 33.476625470177325,
+    "salary_n": 134,
+    "median_salary": 275000.0
+  },
+  {
+    "area": "Москва",
+    "k": 2,
+    "stack": [
+      "docker",
+      "go"
+    ],
+    "vacancies": 412,
+    "share_pct": 22.13863514239656,
+    "salary_n": 99,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Москва",
+    "k": 2,
+    "stack": [
+      "git",
+      "go"
+    ],
+    "vacancies": 291,
+    "share_pct": 15.636754433100483,
+    "salary_n": 87,
+    "median_salary": 240000.0
+  },
+  {
+    "area": "Москва",
+    "k": 2,
+    "stack": [
+      "go",
+      "sql"
+    ],
+    "vacancies": 291,
+    "share_pct": 15.636754433100483,
+    "salary_n": 56,
+    "median_salary": 245000.0
+  },
+  {
+    "area": "Москва",
+    "k": 2,
+    "stack": [
+      "go",
+      "linux"
+    ],
+    "vacancies": 288,
+    "share_pct": 15.475550779150995,
+    "salary_n": 56,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Москва",
+    "k": 3,
+    "stack": [
+      "docker",
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 255,
+    "share_pct": 13.70231058570661,
+    "salary_n": 59,
+    "median_salary": 300000.0
+  },
+  {
+    "area": "Москва",
+    "k": 3,
+    "stack": [
+      "go",
+      "kafka",
+      "postgresql"
+    ],
+    "vacancies": 195,
+    "share_pct": 10.47823750671682,
+    "salary_n": 40,
+    "median_salary": 300000.0
+  },
+  {
+    "area": "Москва",
+    "k": 3,
+    "stack": [
+      "go",
+      "kubernetes",
+      "postgresql"
+    ],
+    "vacancies": 176,
+    "share_pct": 9.457281031703385,
+    "salary_n": 23,
+    "median_salary": 300000.0
+  },
+  {
+    "area": "Москва",
+    "k": 3,
+    "stack": [
+      "git",
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 156,
+    "share_pct": 8.382590005373455,
+    "salary_n": 49,
+    "median_salary": 270000.0
+  },
+  {
+    "area": "Москва",
+    "k": 3,
+    "stack": [
+      "docker",
+      "git",
+      "go"
+    ],
+    "vacancies": 155,
+    "share_pct": 8.328855454056958,
+    "salary_n": 56,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 1,
+    "stack": [
+      "go"
+    ],
+    "vacancies": 359,
+    "share_pct": 79.24944812362031,
+    "salary_n": 73,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 1,
+    "stack": [
+      "postgresql"
+    ],
+    "vacancies": 171,
+    "share_pct": 37.74834437086093,
+    "salary_n": 43,
+    "median_salary": 265000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 1,
+    "stack": [
+      "docker"
+    ],
+    "vacancies": 105,
+    "share_pct": 23.178807947019866,
+    "salary_n": 27,
+    "median_salary": 240000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 1,
+    "stack": [
+      "sql"
+    ],
+    "vacancies": 85,
+    "share_pct": 18.763796909492275,
+    "salary_n": 20,
+    "median_salary": 300000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 1,
+    "stack": [
+      "linux"
+    ],
+    "vacancies": 66,
+    "share_pct": 14.56953642384106,
+    "salary_n": 11,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 2,
+    "stack": [
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 164,
+    "share_pct": 36.203090507726266,
+    "salary_n": 41,
+    "median_salary": 265000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 2,
+    "stack": [
+      "docker",
+      "go"
+    ],
+    "vacancies": 104,
+    "share_pct": 22.958057395143488,
+    "salary_n": 27,
+    "median_salary": 240000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 2,
+    "stack": [
+      "go",
+      "sql"
+    ],
+    "vacancies": 82,
+    "share_pct": 18.101545253863133,
+    "salary_n": 20,
+    "median_salary": 300000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 2,
+    "stack": [
+      "docker",
+      "postgresql"
+    ],
+    "vacancies": 71,
+    "share_pct": 15.673289183222957,
+    "salary_n": 18,
+    "median_salary": 245000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 2,
+    "stack": [
+      "go",
+      "linux"
+    ],
+    "vacancies": 64,
+    "share_pct": 14.1280353200883,
+    "salary_n": 9,
+    "median_salary": 300000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 3,
+    "stack": [
+      "docker",
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 70,
+    "share_pct": 15.45253863134658,
+    "salary_n": 18,
+    "median_salary": 245000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 3,
+    "stack": [
+      "go",
+      "postgresql",
+      "sql"
+    ],
+    "vacancies": 45,
+    "share_pct": 9.933774834437086,
+    "salary_n": 16,
+    "median_salary": 325000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 3,
+    "stack": [
+      "go",
+      "postgresql",
+      "redis"
+    ],
+    "vacancies": 42,
+    "share_pct": 9.271523178807946,
+    "salary_n": 13,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 3,
+    "stack": [
+      "git",
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 39,
+    "share_pct": 8.609271523178808,
+    "salary_n": 16,
+    "median_salary": 232500.0
+  },
+  {
+    "area": "Санкт-Петербург",
+    "k": 3,
+    "stack": [
+      "go",
+      "kafka",
+      "postgresql"
+    ],
+    "vacancies": 38,
+    "share_pct": 8.388520971302428,
+    "salary_n": 2,
+    "median_salary": 385000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 1,
+    "stack": [
+      "go"
+    ],
+    "vacancies": 68,
+    "share_pct": 66.66666666666667,
+    "salary_n": 13,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 1,
+    "stack": [
+      "python"
+    ],
+    "vacancies": 26,
+    "share_pct": 25.49019607843137,
+    "salary_n": 6,
+    "median_salary": 175000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 1,
+    "stack": [
+      "postgresql"
+    ],
+    "vacancies": 23,
+    "share_pct": 22.54901960784314,
+    "salary_n": 8,
+    "median_salary": 215000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 1,
+    "stack": [
+      "git"
+    ],
+    "vacancies": 18,
+    "share_pct": 17.647058823529413,
+    "salary_n": 9,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 1,
+    "stack": [
+      "php"
+    ],
+    "vacancies": 16,
+    "share_pct": 15.686274509803921,
+    "salary_n": 4,
+    "median_salary": 82500.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 2,
+    "stack": [
+      "go",
+      "python"
+    ],
+    "vacancies": 26,
+    "share_pct": 25.49019607843137,
+    "salary_n": 6,
+    "median_salary": 175000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 2,
+    "stack": [
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 22,
+    "share_pct": 21.568627450980394,
+    "salary_n": 7,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 2,
+    "stack": [
+      "git",
+      "go"
+    ],
+    "vacancies": 17,
+    "share_pct": 16.666666666666668,
+    "salary_n": 8,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 2,
+    "stack": [
+      "docker",
+      "go"
+    ],
+    "vacancies": 15,
+    "share_pct": 14.705882352941176,
+    "salary_n": 6,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 2,
+    "stack": [
+      "go",
+      "rabbitmq"
+    ],
+    "vacancies": 15,
+    "share_pct": 14.705882352941176,
+    "salary_n": 2,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 3,
+    "stack": [
+      "go",
+      "java",
+      "python"
+    ],
+    "vacancies": 10,
+    "share_pct": 9.803921568627452,
+    "salary_n": 1,
+    "median_salary": 150000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 3,
+    "stack": [
+      "docker",
+      "go",
+      "postgresql"
+    ],
+    "vacancies": 9,
+    "share_pct": 8.823529411764707,
+    "salary_n": 4,
+    "median_salary": 250000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 3,
+    "stack": [
+      "docker",
+      "go",
+      "python"
+    ],
+    "vacancies": 9,
+    "share_pct": 8.823529411764707,
+    "salary_n": 3,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 3,
+    "stack": [
+      "go",
+      "postgresql",
+      "python"
+    ],
+    "vacancies": 9,
+    "share_pct": 8.823529411764707,
+    "salary_n": 4,
+    "median_salary": 200000.0
+  },
+  {
+    "area": "Екатеринбург",
+    "k": 3,
+    "stack": [
+      "c++",
+      "go",
+      "python"
+    ],
+    "vacancies": 8,
+    "share_pct": 7.8431372549019605,
+    "salary_n": 2,
+    "median_salary": 200000.0
+  }
+]

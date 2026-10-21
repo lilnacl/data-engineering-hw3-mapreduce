@@ -1,0 +1,168 @@
+{
+  "vacancies": 3123,
+  "with_salary": 622,
+  "median_salary": 239750.0,
+  "without_skills": 659,
+  "max_skills": 30,
+  "mean_skills": 4.96926032660903,
+  "skill_count_distribution": [
+    {
+      "skills": 0,
+      "vacancies": 659
+    },
+    {
+      "skills": 1,
+      "vacancies": 132
+    },
+    {
+      "skills": 2,
+      "vacancies": 208
+    },
+    {
+      "skills": 3,
+      "vacancies": 253
+    },
+    {
+      "skills": 4,
+      "vacancies": 332
+    },
+    {
+      "skills": 5,
+      "vacancies": 322
+    },
+    {
+      "skills": 6,
+      "vacancies": 259
+    },
+    {
+      "skills": 7,
+      "vacancies": 255
+    },
+    {
+      "skills": 8,
+      "vacancies": 173
+    },
+    {
+      "skills": 9,
+      "vacancies": 108
+    },
+    {
+      "skills": 10,
+      "vacancies": 128
+    },
+    {
+      "skills": 11,
+      "vacancies": 63
+    },
+    {
+      "skills": 12,
+      "vacancies": 62
+    },
+    {
+      "skills": 13,
+      "vacancies": 32
+    },
+    {
+      "skills": 14,
+      "vacancies": 21
+    },
+    {
+      "skills": 15,
+      "vacancies": 19
+    },
+    {
+      "skills": 16,
+      "vacancies": 32
+    },
+    {
+      "skills": 17,
+      "vacancies": 17
+    },
+    {
+      "skills": 18,
+      "vacancies": 8
+    },
+    {
+      "skills": 19,
+      "vacancies": 6
+    },
+    {
+      "skills": 20,
+      "vacancies": 9
+    },
+    {
+      "skills": 21,
+      "vacancies": 4
+    },
+    {
+      "skills": 22,
+      "vacancies": 2
+    },
+    {
+      "skills": 23,
+      "vacancies": 6
+    },
+    {
+      "skills": 24,
+      "vacancies": 3
+    },
+    {
+      "skills": 27,
+      "vacancies": 1
+    },
+    {
+      "skills": 28,
+      "vacancies": 1
+    },
+    {
+      "skills": 29,
+      "vacancies": 5
+    },
+    {
+      "skills": 30,
+      "vacancies": 3
+    }
+  ],
+  "salary_currency_gross": [
+    {
+      "currency": null,
+      "gross": null,
+      "vacancies": 2255
+    },
+    {
+      "currency": "RUR",
+      "gross": "false",
+      "vacancies": 622
+    },
+    {
+      "currency": "RUR",
+      "gross": "true",
+      "vacancies": 193
+    },
+    {
+      "currency": "USD",
+      "gross": "false",
+      "vacancies": 37
+    },
+    {
+      "currency": "USD",
+      "gross": "true",
+      "vacancies": 11
+    },
+    {
+      "currency": "EUR",
+      "gross": "false",
+      "vacancies": 2
+    },
+    {
+      "currency": "KZT",
+      "gross": "false",
+      "vacancies": 2
+    },
+    {
+      "currency": "KZT",
+      "gross": "true",
+      "vacancies": 1
+    }
+  ]
+}
